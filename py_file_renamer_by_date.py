@@ -1,3 +1,5 @@
+#MAKE SURE TO BACK UP ALL FILES
+
 import os
 
 def renamer(file_list,directory):
@@ -34,6 +36,6 @@ def directory(directory):
 
 
 def main():
-    directory("/Users/david/Desktop/HTML/Jane_Smiths_Website/images")
+    directory("") #insert directory
 if __name__== "__main__":
     main()
